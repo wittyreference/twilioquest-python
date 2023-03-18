@@ -1,0 +1,8 @@
+Executing script: /Users/mcarpenter/twilioquest/python/fizzbuzz.py
+Script arguments: -3000,7,6,100
+Output:
+Traceback (most recent call last):
+  File "/Users/mcarpenter/twilioquest/python/fizzbuzz.py", line 10, in <module>
+    do_math_on_me = int(inputs)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+
